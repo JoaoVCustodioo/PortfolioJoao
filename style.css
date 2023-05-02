@@ -129,7 +129,7 @@ color: #000000;
 .col{ 
 
     display: flex;
-    justify-items: center;
+    justify-content: center;
     align-items: center;
     width: 95px;
     height: 38px;
