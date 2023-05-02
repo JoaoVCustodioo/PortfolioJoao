@@ -128,7 +128,9 @@ color: #000000;
 
 .col{ 
 
-    
+    display: flex;
+    justify-items: center;
+    align-items: center;
     width: 95px;
     height: 38px;
     background: #DDF9BA;
@@ -392,7 +394,7 @@ section {
     }
     
     .projects-content{
-        
+            margin-top: 5px;
             display: flex;
             flex-direction: column;
     }
